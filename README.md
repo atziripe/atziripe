@@ -2,7 +2,7 @@
 
 **Software Engineer & Co-Founder** based in Berlin, Germany.
 
-I build backend systems and AI-powered products. Currently engineering [VIV](https://github.com/atziripe) — an AI-driven fitness and recovery app for women — from architecture to mobile, end-to-end.
+I build backend systems and AI-powered products. Currently engineering [VIV](https://vivfem.io/) — an AI-driven fitness and recovery app for women — from architecture to mobile, end-to-end.
 
 Previously at **Stori** (fintech, 1M+ users), building microservices in Go for credit and savings infrastructure across Latin America.
 
@@ -25,7 +25,7 @@ MSc in Software Engineering from the University of Europe for Applied Sciences, 
 
 ## 🚀 Projects
 
-### [Until We Find You](https://github.com/atziripe/until-we-find-you)
+### [Until We Find You](https://github.com/atziripe/back-UntilWeFindYou)
 AI-powered missing persons analytics platform for NGOs in Mexico.  
 `FastAPI` `PostgreSQL` `XGBoost` `LSTM/RNN` `React` `Python`
 
@@ -34,7 +34,7 @@ AI-powered missing persons analytics platform for NGOs in Mexico.
 - Real-time KPI dashboard API: active cases, forced disappearance indicators, geographic distribution
 - Gender-sensitive data model prioritizing vulnerable populations
 
-### Driver Fatigue Detection
+### [Driver Fatigue Detection](https://github.com/atziripe/DriverFatigueDetection)
 Real-time fatigue detection system using computer vision and multi-sensor fusion.  
 `TensorFlow` `OpenCV` `Python` `CNNs`
 
